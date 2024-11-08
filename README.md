@@ -1,4 +1,4 @@
-# Credit Card Weekly Financial Report
+# Credit Card Financial Weekly Report
 ![image](https://www.paypact.com/wp-content/uploads/2022/06/Img.svg)
 
 ### Objective:
