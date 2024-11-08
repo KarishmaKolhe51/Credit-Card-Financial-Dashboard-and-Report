@@ -1,4 +1,5 @@
 # Credit Card Financial Weekly Report
+![image](https://www.paypact.com/wp-content/uploads/2022/06/Img.svg)
 
 ### Objective:
 To develop a comprehensive credit card weekly dashboard that provides real time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
