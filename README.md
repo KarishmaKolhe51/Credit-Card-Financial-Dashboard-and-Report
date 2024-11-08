@@ -4,13 +4,16 @@
 ### Objective:
 To develop a comprehensive credit card weekly dashboard that provides real time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
-### Tools:
+### Software:
 1. PostgreSQL
-2. Power BI
-3. DAX
-4. Measure  
-5. Refresh
-6. Filters
+2. Power BI 
+
+### Concept Used:
+1. DAX
+2. Measure  
+3. Refresh
+4. Filters
+5. Charts
 
 ### Data Processing and Highlights:
 1. Extracted and processed customer and transaction data using PostgreSQL, organized by demographic and expenditure categories.
